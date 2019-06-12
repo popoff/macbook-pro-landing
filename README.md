@@ -1,7 +1,6 @@
-# Responsive products landings
+# Responsive MacBook Pro landing
 
-**Responsive Apple products landings  with CSS flexbox I made for Ukrainian gadgets retailer**
+**Responsive MacBook Pro 13" 2016 landing with CSS flexbox I made for Ukrainian gadgets retailer**
 
- [`View MacBook Pro 13" 2016 landing`](http://localhost:8080/)
+ [`View MacBook Pro landing`](http://localhost:8080/)
 
- [`View AppleWatch 2 38mm landing`](http://localhost:8080/)
